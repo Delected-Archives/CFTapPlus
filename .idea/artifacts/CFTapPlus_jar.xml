@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CFTapPlus:jar">
+    <output-path>$USER_HOME$/Desktop/Desktop/Servers/1.15.2 smp thing/plugins</output-path>
+    <root id="archive" name="CFTapPlus.jar">
+      <element id="module-output" name="CFTapPlus" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Desktop/Servers/1.15.2 smp thing/spigot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

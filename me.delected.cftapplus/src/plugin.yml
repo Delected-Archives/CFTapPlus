@@ -1,0 +1,14 @@
+name: CFTapPlus
+version: BETA-1.0
+author: Delected_
+api-version: 1.15
+
+main: main.CFTapPlus
+
+commands:
+  company:
+    description: allows users to manage companies.
+  card:
+    description: allows users to manage cards.
+  cftpreload:
+    description: allows admins to save and reload the config files.
